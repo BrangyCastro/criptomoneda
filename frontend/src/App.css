@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand span {
+  margin-left: 10px;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Bitcon",
+    "usd": 36000
+  },
+  {
+    "nombre": "Ethereum",
+    "usd": 2600
+  },
+  {
+    "nombre": "Tether",
+    "usd": 1
+  },
+  {
+    "nombre": "BNB",
+    "usd": 388
+  },
+  {
+    "nombre": "Avalanche",
+    "usd": 67
+  }
+]
