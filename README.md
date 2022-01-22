@@ -1,6 +1,6 @@
 # Full Stack Developer (Criptomonedas)
 
-Este proyecto esta desarrolla para una prueba técnica.
+Este proyecto esta desarrollado para una prueba técnica.
 
 ## FUNCIONALIDAD
 
@@ -35,7 +35,7 @@ Cuenta con los siguiente ENDPOINT
   - `npm install`
 - Ejecutar el proyecto en producción:
   - `npm run start:prod`
-- o tambien ejecutar el proyecto en deserrollo:
+- o tambien ejecutar el proyecto en desarrollo:
 - `npm run start:dev`
 - Url habilitada:
   - `http://localhost:8000/`
